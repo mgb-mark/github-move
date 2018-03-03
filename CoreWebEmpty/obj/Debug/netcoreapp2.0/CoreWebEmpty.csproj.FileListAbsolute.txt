@@ -1,0 +1,10 @@
+C:\Projects\MVA\CoreWebEmpty\bin\Debug\netcoreapp2.0\CoreWebEmpty.deps.json
+C:\Projects\MVA\CoreWebEmpty\bin\Debug\netcoreapp2.0\CoreWebEmpty.runtimeconfig.json
+C:\Projects\MVA\CoreWebEmpty\bin\Debug\netcoreapp2.0\CoreWebEmpty.runtimeconfig.dev.json
+C:\Projects\MVA\CoreWebEmpty\bin\Debug\netcoreapp2.0\CoreWebEmpty.dll
+C:\Projects\MVA\CoreWebEmpty\bin\Debug\netcoreapp2.0\CoreWebEmpty.pdb
+C:\Projects\MVA\CoreWebEmpty\obj\Debug\netcoreapp2.0\CoreWebEmpty.csproj.CoreCompileInputs.cache
+C:\Projects\MVA\CoreWebEmpty\obj\Debug\netcoreapp2.0\CoreWebEmpty.AssemblyInfoInputs.cache
+C:\Projects\MVA\CoreWebEmpty\obj\Debug\netcoreapp2.0\CoreWebEmpty.AssemblyInfo.cs
+C:\Projects\MVA\CoreWebEmpty\obj\Debug\netcoreapp2.0\CoreWebEmpty.dll
+C:\Projects\MVA\CoreWebEmpty\obj\Debug\netcoreapp2.0\CoreWebEmpty.pdb
